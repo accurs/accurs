@@ -5,7 +5,7 @@ I build and maintain large-scale projects and applications used by millions of p
 
 - Evict: A multipurpose bot serving roughly 5 million users across 25,000+ servers.
 - Rival: A multipurpose bot built with Discord.py (currently migrating to Discodeno), serving around 2 million users across 1,800+ guilds.
-- Azron, LLC: A network of projects that collectively serves 10 million users across 40,000+ servers.
+- Azron, LLC: A network of projects that collectively serve 10 million users across 40,000+ servers.
 
 Contact me:
 - Discord: @avarielia
