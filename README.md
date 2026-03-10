@@ -1,4 +1,4 @@
-Hi there, I'm accurs
+Hi there, I'm accurs ![](https://komarev.com/ghpvc/?username=accurs&color=grey)
 
 I'm a U.S.-based developer focused primarily on Python, with hands-on experience across other languages.
 I build and maintain large-scale projects and applications used by millions of people every day.
