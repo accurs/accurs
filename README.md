@@ -1,5 +1,8 @@
 Hi there, I'm accurs
-![](https://komarev.com/ghpvc/?username=accurs&color=grey)
+
+<a href="https://github.com/accurs">
+    <img src="https://komarev.com/ghpvc/?username=accurs&style=for-the-badge">
+</a>
 
 I'm a U.S.-based developer focused primarily on Python, with hands-on experience across other languages.
 I build and maintain large-scale projects and applications used by millions of people every day.
